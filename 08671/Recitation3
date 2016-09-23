@@ -1,0 +1,19 @@
+Recitation 3
+
+- Outline:
+  
+   - Conditionals
+   - Arrays and loops (Enhanced for loops)
+   - Methods
+   - Classes(overloading vs overriding) (String builder,println vs toString)
+   - Package
+   
+   - Static members (Think about static or not depends on if the method is related to specific instances)
+     - Can't invoke instance method from static method (Create a new instance and access the instance method)
+     - Can't access static variable from instance method (The same way)
+
+   - Objects
+     - When there is no equal method in instance, it will date back to its superclass(Most of time object)
+       The default equal method define the equality as the same instance.
+
+   
